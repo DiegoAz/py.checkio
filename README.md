@@ -1,1 +1,1 @@
-Solutions to the [checkio] (https://py.checkio.org) challenges using Python
+Solutions to the [checkio](https://py.checkio.org "Coding games for beginners and advanced programmers") challenges using Python
